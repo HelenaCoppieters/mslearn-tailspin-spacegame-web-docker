@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 variables:
-  registryName:'dockerintroduction.azurecr.io'
+  registryName: 'dockerintroduction.azurecr.io'
   webRepository: 'web'
   tag: '$(Build.BuildId)'
 
