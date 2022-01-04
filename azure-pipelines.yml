@@ -1,6 +1,5 @@
 trigger:
 - '*'
-
 variables:
  registryName: 'dockerintroduction.azurecr.io'
  webRepository: 'web'
